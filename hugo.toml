@@ -40,7 +40,6 @@ hasCJKLanguage = false
         # style of theme: auto, light, dark
         mode = 'auto'
     # page configuration
-    # 页面配置  
     [params.page]
 
         # top image in home page, note that the "/" in path is necessary, the same applies below
